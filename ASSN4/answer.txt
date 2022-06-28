@@ -1,0 +1,22 @@
+[Task 1]
+A B C E F D
+[Task 2]
+3
+[Task 3]
+C D E
+[Task 4]
+A C E 18
+[Task 5]
+A F E D 7
+[Task 6]
+A C 1
+C D 2
+D B 1
+D E 5
+9
+[Task 7]
+A C 1
+B D 1
+C D 2
+D E 5
+9
